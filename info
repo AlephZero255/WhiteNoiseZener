@@ -1,0 +1,147 @@
+{
+  "uuid": "363c76abe6f23ddbdcbf87d4132fe292",
+  "path": "Offline/WhiteNoise",
+  "name": "WhiteNoise",
+  "content": "",
+  "created_at": "2023-06-15 19:37:29",
+  "updated_at": "2023-06-16 17:02:42",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ddf4c92ab05527f4d7ee76afe9f3ab0d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 1,
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.01u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ]
+      ],
+      "updateTime": 1686847547,
+      "createTime": 1686847050,
+      "histories": [],
+      "created_at": "2023-06-15 19:37:30",
+      "updated_at": "2023-06-15 19:45:47"
+    },
+    {
+      "uuid": "bd0f0f18cb3c970889eb86bf166cc830",
+      "puuid": "363c76abe6f23ddbdcbf87d4132fe292",
+      "title": "PCB_WhiteNoise_2",
+      "filename": "PCB_WhiteNoise_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "dd3cfd4941c4479cb7f2c598e6fde06c": 1
+      },
+      "BOM": [],
+      "updateTime": 1686924162,
+      "createTime": 1686847807,
+      "histories": [],
+      "created_at": "2023-06-15 19:50:07",
+      "updated_at": "2023-06-16 17:02:42"
+    }
+  ],
+  "sort": [],
+  "title": "WhiteNoise",
+  "foldername": "WhiteNoise",
+  "schfilename": "WhiteNoise.json",
+  "schfilemtime": 1686847547855
+}
